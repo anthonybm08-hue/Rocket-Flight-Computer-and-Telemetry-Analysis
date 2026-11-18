@@ -85,7 +85,7 @@ detailed graphs, calculations, and interpretations are documented in the `analys
 
 - improve orientation estimation through sensor fusion algorithms.
 - investigate gyroscope drift and accumulated measurement error.
-- refine altitude and velocity estimation methods.
+- refine altitude and velocity estimation methods with added BMP280 sensor.
 - improve sensor calibration and data acquisition reliability.
 - evaluate additional filtering and estimation techniques.
 - investigate real-time wireless telemetry capabilities.
