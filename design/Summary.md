@@ -1,0 +1,12 @@
+summary of design process (without trial and error documented in Physical Project Log.pdf:
+- engine motors measured to determine what dimensions engine mount should be
+- four engines deemed most appropriate due to size of rocket tube
+- nosecone designed using an elliptical nosecone formula
+- nosecone sanded, primed, and spray painted navy blue
+- cardboard tube sanded, primed, and spray painted chrome
+- OpenRocket used to determine best fin design and dimensions that create ideal stability and lead to highest simulated apogee
+- fins made out of balsa wood. two sheets glued together and primed with wood filler. spray painted navy blue, same as nosecone
+- engine mount designed and printed, allowing shock cord to tie into hole created during printing. not painted after printing
+- avionics bay designed and printed, allowing shock cord to tie into hole created during printing. separate, thicker door designed and printed. four small computer screws intended to close avionics bay. one tab broke off. to keep even only two screws used instead.
+- rectangles cut into tube where fins will connect to tube as well as detachable engine mount plug
+- cluster whips cut and soldered together from small alligator clips.
