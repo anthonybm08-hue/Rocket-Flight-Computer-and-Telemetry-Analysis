@@ -1,33 +1,25 @@
 # Rocket-Flight-Computer-and-Telemetry-Analysis
 Homemade rocket project designed to save data recorded from accelerometer and gyroscope in order to calculate height through integration
 
+Goal: design a homemade rocket using commercial solid rocket engines and computer sensor system in order to estimate trajectory and speed.
+
 TBD:
-Project overview
+Firmware- .ino code
 
 
-
-Hardware architecture
-
+Data- raw and processed
 
 
-Software and programming
+Analysis- Flight analysis and plotting
 
 
-
-Sensor calibration
-
+Cad- nosecone, avionics bay, engine mount
 
 
-Flight-data acquisition
+Hardware- wiring diagram. electronics layout. bill of materials
 
 
-
-Experimental flight results
-
+Results- figures. flight summary. technical report.
 
 
-Data visualization
-
-
-
-Limitations and future improvements
+Design process, Limitations, Future improvements- openrocket, project log, limitations(engine), improvements(barometer,engines,filtering)
