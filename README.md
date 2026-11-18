@@ -5,10 +5,6 @@ Homemade rocket project designed to save data recorded from accelerometer and gy
 
 Goal: design a homemade rocket using commercial solid rocket engines and computer sensor system in order to estimate trajectory and speed.
 
-Firmware- .ino code
-Data- raw and processed
-Analysis- Flight analysis and plotting
-
 **TBD:**
 
 Cad- nosecone, avionics bay, engine mount
