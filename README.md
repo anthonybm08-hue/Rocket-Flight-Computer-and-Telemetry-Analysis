@@ -2,6 +2,9 @@
 
 a custom-built model rocket equipped with an onboard flight computer designed to acquire, record, and analyze flight data using inertial measurement and soon barometric pressure sensors.
 
+<img width="1086" height="1448" alt="Rocket_on_rail_test2" src="https://github.com/user-attachments/assets/01aa0662-3469-46c8-98e0-5aad5920e72c" />
+
+
 ## 1. Project Overview
 
 this project involves the design, construction, and testing of a model rocket equipped with a custom-developed flight computer. the onboard system uses an Arduino Nano ESP32 and an MPU6050 inertial measurement unit to collect flight data during launch and flight.
