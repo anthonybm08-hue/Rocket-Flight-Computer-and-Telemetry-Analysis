@@ -18,7 +18,6 @@ the project integrates mechanical design, computer-aided design (CAD), electroni
 | Propulsion | 4 × Estes C6-5 solid rocket motors |
 | Flight Computer | Arduino Nano ESP32 |
 | Inertial Measurement Unit | MPU6050 |
-| Barometric Pressure Sensor | BMP280 |
 | Data Storage | microSD card |
 | Embedded Programming | Arduino C++ |
 | Data Processing | Python |
