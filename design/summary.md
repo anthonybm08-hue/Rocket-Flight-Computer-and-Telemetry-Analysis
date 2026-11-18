@@ -24,3 +24,4 @@ summary of design process (without trial and error documented in Physical Projec
 <img width="756" height="1008" alt="Rocket_no_fins" src="https://github.com/user-attachments/assets/2c1e434f-836d-4fe5-bc17-ab04d993b243" />
 
 <img width="543" height="724" alt="Rocket_on_rail_test2" src="https://github.com/user-attachments/assets/63036b9b-84b5-439d-86cf-8cf08cd6a369" />
+(most recent flight, fins are different shape, closer to the intended shape based off of OpenRocket simulations)
