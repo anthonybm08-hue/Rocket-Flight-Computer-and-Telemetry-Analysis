@@ -1,1 +1,4 @@
-take raw data into excel. find where launch is detected. compare time to actual launch time. compare vertical acceleration to real life counterparts, vertical acceleration should be a large positive number at launch, ~-1g or ~-9.8m/s^2 once thrust is gone, until the rocket deploys parachute. then give new data, as flight_xxx_trimmed, to FlightAnalysis.py.
+take raw data into excel. find where launch is detected. compare time to actual launch time. 
+compare vertical acceleration to real life counterparts, 
+vertical acceleration should be a large positive number at launch, ~-1g or ~-9.8m/s^2 once thrust is gone, until the rocket deploys parachute. 
+then give new data, as flight_xxx_trimmed, to FlightAnalysis.py.
