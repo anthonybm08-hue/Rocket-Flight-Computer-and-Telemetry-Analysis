@@ -10,8 +10,6 @@ Goal: design a homemade rocket using commercial solid rocket engines and compute
 
 **TBD:**
 
-Cad- nosecone, avionics bay, engine mount
-
 Hardware- wiring diagram. electronics layout. bill of materials
 
 Results- figures. flight summary. technical report.
